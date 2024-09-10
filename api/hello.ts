@@ -1,6 +1,6 @@
 import { VercelRequest, VercelResponse } from "@vercel/node";
 
-import { helperFunction } from "./utils/helper.ts";
+import { helperFunction } from "./utils/helper";
 
 export default function handler(_req: VercelRequest, res: VercelResponse) {
   const result = helperFunction();
