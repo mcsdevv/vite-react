@@ -1,21 +1,16 @@
-# React + TypeScript + Vite
+This is a website tech analzer that creates elementary tech architecture diagram of the wev technologies used by the website scanned.
+In future versions more capabilitis willbe introduced.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It is a Vite-React-TypeScript Project.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+To initiate
 
-## Deploy Your Own
+1: clone repository
 
-Deploy your own Vite project with Vercel.
+2: npm run server
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+3: npm run dev
 
-_Live Example: https://vite-react-example.vercel.app_
+4: visit https://localhost:5173
 
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+5: enter URL to scan 
